@@ -60,15 +60,9 @@ points_32 = data["points_32"]
 print("Three-channel data shape:", three_channel.shape)
 ```
 
-## Potential Applications
-
-* **Emergency response planning**: Rapid prediction of hazardous gas dispersion for accident scenarios in chemical parks.
-* **Urban safety assessment**: Studying the impact of building layouts and terrain on hazardous gas spread in industrial areas.
-* **Renewable energy integration**: Evaluating storage dispatch strategies under uncertain meteorological conditions.
-* **Machine learning research**: Developing and benchmarking data-driven or physics-informed models for spatiotemporal prediction of hazardous gas concentrations.
-
-## License
+## License and Citation
 
 Please refer to the dataset license for usage conditions.
 
-
+If you use this dataset, please cite as:
+Jianyao, Y., & Zhang, X. (2025). 5min_m_apss_Data (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17008799[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17008799.svg)](https://doi.org/10.5281/zenodo.17008799 (2025))
