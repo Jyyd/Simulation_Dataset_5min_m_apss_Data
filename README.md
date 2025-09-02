@@ -2,9 +2,9 @@
 
 ## Overview
 
-This dataset contains simulated **hazardous gas dispersion data** generated using the [GRAMM–GRAL](https://gral.tugraz.at/features.html).
+This dataset contains simulated **hazardous gas dispersion data** generated using the [GRAMM GRAL](https://gral.tugraz.at/features.html).
 The simulations are based on the **Chemical Park model** (available in the [University of Hamburg Wind Tunnel Laboratory dataset](https://www.mi.uni-hamburg.de/en/arbeitsgruppen/windkanallabor/data-sets.html)), which provides realistic **chemical park building layouts** used as the underlying geometry for the dispersion experiments.
-The dataset is designed for research in **fast prediction of hazardous gas dispersion**, atmospheric environment modeling, and data-driven methods such as deep learning.
+The dataset is designed for research in **quick prediction of hazardous gas dispersion**, atmospheric environment modeling, and data-driven methods such as deep learning.
 
 * **File format**: `.npz` (NumPy compressed archive)
 * **Leak duration**: **5 minutes**
