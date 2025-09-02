@@ -26,7 +26,7 @@ The dataset is designed for research in **quick prediction of hazardous gas disp
 
 * **Substance**: Liquefied Natural Gas (LNG)
 * **Source locations**: 98 potential release points available; **60 selected sources** are used for deep learning experiments
-![alt text](source_pionts.jpg)
+![alt text](source_points.png)
 
 ## Data Files
 
