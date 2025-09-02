@@ -71,6 +71,4 @@ print("Three-channel data shape:", three_channel.shape)
 
 Please refer to the dataset license for usage conditions.
 
----
 
-要不要我帮你把这个 README 直接生成一个 **Markdown 文件 (`README.md`)**，这样你就可以直接放到项目里用了？
