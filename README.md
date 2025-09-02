@@ -65,4 +65,4 @@ print("Three-channel data shape:", three_channel.shape)
 Please refer to the dataset license for usage conditions.
 
 If you use this dataset, please cite as:
-Jianyao, Y., & Zhang, X. (2025). 5min_m_apss_Data (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17008799[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17008799.svg)](https://doi.org/10.5281/zenodo.17008799 (2025))
+Jianyao, Y., & Zhang, X. (2025). 5min_m_apss_Data (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17008799 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17008799.svg)](https://doi.org/10.5281/zenodo.17008799 (2025))
